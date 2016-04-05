@@ -7,6 +7,8 @@
  */
 namespace onmotion\helpers;
 
+use \Imagick;
+
 class ImagickExt
 {
     public static function autorotate(Imagick $image)
