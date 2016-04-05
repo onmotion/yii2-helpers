@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "onmotion\\yii2-helpers\\": ""
+            "onmotion\\helpers\\": ""
         }
     },
     "extra": {
